@@ -38,3 +38,6 @@ vim
 ```
 
 Este comando descargará e instalará todos los plugins especificados en tu archivo de configuración.
+
+# Resultado
+![imagen](https://github.com/user-attachments/assets/9417040a-2a9d-4fe3-90d5-8c1c83c4f5aa)
